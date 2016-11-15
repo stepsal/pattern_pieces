@@ -1,10 +1,12 @@
 # pattern_pieces
 
+'''
 Pattern Pieces art generation script written in Python.
 Creates an image from a number of input images.
 A random square of BLOCK_SIZE is take from each input image cyclically until
 the NO_OF_PIECES is reached.
-Output Image is created by cycling and pasting through these pieces.
+Output Image is created by pasting these pieces cyclically
+'''.
 
 ## Usage
 
