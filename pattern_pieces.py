@@ -96,7 +96,3 @@ if __name__ == '__main__':
             parser.print_help()
             exit(2)
     main()
-
-#test from the command line
-#add requirements
-#add example images
